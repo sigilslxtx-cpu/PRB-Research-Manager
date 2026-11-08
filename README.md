@@ -2,7 +2,7 @@
 
 ## Open a task from a link
 
-This app accepts **review-only task links**. A link opens the existing Tasks editor; it does not create a task until the user chooses **Create record**.
+This app accepts **review-only To-Do task links**. A link opens the existing To-Do view and a prefilled task editor; it does not create a task until the user chooses **Create record**. After saving, the app selects the matching To-Do category (Today, Upcoming, Unscheduled, etc.). The To-Do and Tasks screens use the same task records.
 
 Example URL (requires this app to be published on GitHub Pages):
 
