@@ -1,3 +1,4 @@
+/* © 2026 Chris Guittard. All rights reserved in copyrightable material owned or controlled by Chris Guittard. Third-party rights remain. See rights.html. */
 /* PRB Research Manager — standalone, offline-first browser app. No remote API calls. */
 (()=>{'use strict';
 const STORE='prb-research-manager-v1'; const FILE_DB='prb-source-files-v1'; const VERSION=1;
